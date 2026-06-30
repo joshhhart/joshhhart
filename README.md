@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:1a0033,100:000000&height=220&section=header&text=JOSH%20HART&fontSize=70&fontColor=00ffea&animation=fadeIn&fontAlignY=38&desc=systems%20%2F%20automation%20%2F%20fulfillment&descAlignY=58&descSize=18&descColor=ff00c8" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00FFEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+building+systems+that+don't+break+at+3am;%3E+ghl+%2B+supabase+%2B+n8n+%2B+claude+code;%3E+coo-track+%40+apex+media+solutions;%3E+co-running+llm+academy+w%2F+%40prestonrhodes" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00FFEA&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=130&lines=%3E+building+systems+that+don't+break+at+3am;%3E+ghl+%2B+supabase+%2B+n8n+%2B+claude+code;%3E+coo-track+%40+apex+media+solutions;%3E+co-running+llm+academy+w%2F+%40prestonrhodes" alt="typing-svg" />
 
 </div>
 
