@@ -118,7 +118,11 @@ Zero maintenance webhook pipelines and deep API integrations syncing CRM data wi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=joshhhart&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7" width="100%"/>
+![Commits](https://img.shields.io/badge/Total_Commits-161-00ffea?style=for-the-badge&labelColor=0a0014)
+![Streak](https://img.shields.io/badge/Current_Streak-8_days-ff00c8?style=for-the-badge&labelColor=0a0014)
+![Longest Streak](https://img.shields.io/badge/Longest_Streak-8_days-ff00c8?style=for-the-badge&labelColor=0a0014)
+![Repos](https://img.shields.io/badge/Public_Repos-4-00ffea?style=for-the-badge&labelColor=0a0014)
+![Since](https://img.shields.io/badge/Coding_Since-2016-ffffff?style=for-the-badge&labelColor=0a0014)
 
 </div>
 
