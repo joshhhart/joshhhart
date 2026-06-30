@@ -94,10 +94,14 @@ Zero maintenance webhook pipelines and deep API integrations syncing CRM data wi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joshhhart&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0014&title_color=00ffea&icon_color=ff00c8&text_color=ffffff&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshhhart&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0014&title_color=00ffea&text_color=ffffff" width="33%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshhhart&theme=tokyonight&hide_border=true&background=0a0014&ring=00ffea&fire=ff00c8&currStreakLabel=00ffea" width="60%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joshhhart&theme=tokyonight&hide_border=true&background=0a0014&ring=00ffea&fire=ff00c8&currStreakLabel=00ffea" width="49%"/>
+![HTML](https://img.shields.io/badge/HTML-91.97%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0014)
+![JavaScript](https://img.shields.io/badge/JavaScript-4.58%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0a0014)
+![Astro](https://img.shields.io/badge/Astro-2.38%25-FF5D01?style=for-the-badge&logo=astro&logoColor=white&labelColor=0a0014)
+![CSS](https://img.shields.io/badge/CSS-0.92%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0014)
+![TypeScript](https://img.shields.io/badge/TypeScript-0.15%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0a0014)
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshhhart&theme=tokyo-night&hide_border=true&bg_color=0a0014&color=00ffea&line=ff00c8&point=ffffff" width="100%"/>
 
 </div>
