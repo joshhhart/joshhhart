@@ -112,8 +112,6 @@ Zero maintenance webhook pipelines and deep API integrations syncing CRM data wi
 
 </div>
 
-<sub>⚠️ snake animation requires a one time GitHub Action setup, ask me to walk you through wiring it up if it's not rendering yet</sub>
-
 ---
 
 ### `> achievements.unlocked`
